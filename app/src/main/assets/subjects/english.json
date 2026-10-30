@@ -1,0 +1,115 @@
+{
+  "id": "english",
+  "order": 1,
+  "title": "English",
+  "description": "Letters, words and everyday phrases",
+  "icon": "book",
+  "color": "#1565C0",
+  "speechLanguage": "en-US",
+  "lessons": [
+    {
+      "id": "alphabet",
+      "title": "The Alphabet: A to E",
+      "summary": "Learn the sound, shape and Braille dots of the first five letters.",
+      "audience": ["blind", "deaf"],
+      "cards": [
+        {
+          "heading": "Meet the letters",
+          "text": "The English alphabet has 26 letters. In this lesson you will learn the first five: A, B, C, D and E. Each card gives you the sound, an example word, the shape of the letter, and its Braille dots."
+        },
+        {
+          "heading": "The letter A",
+          "text": "A says \"ah\" as in apple. Shape: two slanted lines that meet at the top, with a bar across the middle. Braille: dot 1."
+        },
+        {
+          "heading": "The letter B",
+          "text": "B says \"buh\" as in ball. Shape: a straight line on the left with two bumps on the right. Braille: dots 1 and 2."
+        },
+        {
+          "heading": "The letter C",
+          "text": "C says \"kuh\" as in cat. Shape: an open curve, like a crescent moon. Braille: dots 1 and 4."
+        },
+        {
+          "heading": "The letter D",
+          "text": "D says \"duh\" as in dog. Shape: a straight line on the left with one big bump on the right. Braille: dots 1, 4 and 5."
+        },
+        {
+          "heading": "The letter E",
+          "text": "E says \"eh\" as in egg. Shape: a straight line with three short bars pointing right. Braille: dots 1 and 5."
+        }
+      ]
+    },
+    {
+      "id": "greetings",
+      "title": "Greetings",
+      "summary": "Say hello, please, thank you and goodbye.",
+      "audience": ["blind", "deaf"],
+      "cards": [
+        {
+          "heading": "Hello",
+          "text": "Hello! How are you? You can answer: I am fine, thank you."
+        },
+        {
+          "heading": "Good morning",
+          "text": "Say good morning before noon. Say good afternoon after noon. Say good evening when the sun goes down."
+        },
+        {
+          "heading": "Please and thank you",
+          "text": "Say please when you ask for something. Say thank you when someone helps you. The answer to thank you is: you are welcome."
+        },
+        {
+          "heading": "Goodbye",
+          "text": "Say goodbye when you leave. You can also say: see you tomorrow, or take care."
+        }
+      ]
+    },
+    {
+      "id": "sounds",
+      "title": "Sounds Around Us",
+      "summary": "Listen for everyday sounds and learn the words for them.",
+      "audience": ["blind"],
+      "cards": [
+        {
+          "heading": "Listen closely",
+          "text": "Many words are sounds we hear every day. Close your eyes and listen to the world around you."
+        },
+        {
+          "heading": "Animal sounds",
+          "text": "A dog barks. A cat meows. A rooster crows in the morning. A bird sings."
+        },
+        {
+          "heading": "Weather sounds",
+          "text": "Rain patters on the roof. Thunder rumbles. Wind whistles through the trees."
+        },
+        {
+          "heading": "Home sounds",
+          "text": "A door creaks. A kettle whistles. A clock ticks. A phone rings."
+        }
+      ]
+    },
+    {
+      "id": "seeing-words",
+      "title": "Words You Can See",
+      "summary": "Match simple words to what they look like.",
+      "audience": ["deaf"],
+      "cards": [
+        {
+          "heading": "Reading by sight",
+          "text": "Every word has a shape you can learn to recognize. Look at the word, then picture the object it names."
+        },
+        {
+          "heading": "Sun",
+          "text": "Sun is a short word with three letters: S, U, N. The sun is a bright yellow circle in the sky."
+        },
+        {
+          "heading": "Book",
+          "text": "Book has four letters: B, O, O, K. A book is a stack of pages with a cover. You read it."
+        },
+        {
+          "heading": "House",
+          "text": "House has five letters: H, O, U, S, E. A house has walls, a roof, a door and windows. People live in it."
+        }
+      ]
+    }
+  ]
+}

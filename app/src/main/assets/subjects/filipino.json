@@ -1,0 +1,133 @@
+{
+  "id": "filipino",
+  "order": 2,
+  "title": "Filipino",
+  "description": "Mga letra, salita at pagbati",
+  "icon": "translate",
+  "color": "#C62828",
+  "speechLanguage": "fil-PH",
+  "lessons": [
+    {
+      "id": "alpabeto",
+      "title": "Ang Alpabeto: A, B, K, D, E",
+      "summary": "Alamin ang tunog, hugis at Braille ng mga unang letra.",
+      "audience": ["blind", "deaf"],
+      "cards": [
+        {
+          "heading": "Ang Alpabetong Filipino",
+          "text": "Ang alpabetong Filipino ay may dalawampu't walong letra.",
+          "translation": "The Filipino alphabet has 28 letters. We will start with A, B, K, D and E."
+        },
+        {
+          "heading": "Ang letrang A",
+          "text": "A, aso.",
+          "translation": "A is for aso, which means dog. Shape: two slanted lines that meet at the top, with a bar across the middle. Braille: dot 1."
+        },
+        {
+          "heading": "Ang letrang B",
+          "text": "B, bahay.",
+          "translation": "B is for bahay, which means house. Shape: a straight line on the left with two bumps on the right. Braille: dots 1 and 2."
+        },
+        {
+          "heading": "Ang letrang K",
+          "text": "K, kamay.",
+          "translation": "K is for kamay, which means hand. Shape: a straight line with two short arms on the right. Braille: dots 1 and 3."
+        },
+        {
+          "heading": "Ang letrang D",
+          "text": "D, dahon.",
+          "translation": "D is for dahon, which means leaf. Shape: a straight line on the left with one big bump on the right. Braille: dots 1, 4 and 5."
+        },
+        {
+          "heading": "Ang letrang E",
+          "text": "E, elepante.",
+          "translation": "E is for elepante, which means elephant. Shape: a straight line with three short bars pointing right. Braille: dots 1 and 5."
+        }
+      ]
+    },
+    {
+      "id": "pagbati",
+      "title": "Mga Pagbati",
+      "summary": "Matutong bumati nang magalang.",
+      "audience": ["blind", "deaf"],
+      "cards": [
+        {
+          "heading": "Kumusta",
+          "text": "Kumusta! Kumusta ka?",
+          "translation": "Hello! How are you?"
+        },
+        {
+          "heading": "Magandang umaga",
+          "text": "Magandang umaga po.",
+          "translation": "Good morning. Adding po makes it polite when you speak to elders."
+        },
+        {
+          "heading": "Magandang hapon at gabi",
+          "text": "Magandang hapon po. Magandang gabi po.",
+          "translation": "Good afternoon. Good evening."
+        },
+        {
+          "heading": "Salamat",
+          "text": "Salamat po. Walang anuman.",
+          "translation": "Thank you. You're welcome."
+        },
+        {
+          "heading": "Paalam",
+          "text": "Paalam na po. Ingat ka.",
+          "translation": "Goodbye. Take care."
+        }
+      ]
+    },
+    {
+      "id": "bilang",
+      "title": "Mga Bilang",
+      "summary": "Magbilang mula isa hanggang sampu.",
+      "audience": ["blind", "deaf"],
+      "cards": [
+        {
+          "heading": "Isa hanggang lima",
+          "text": "Isa, dalawa, tatlo, apat, lima.",
+          "translation": "One, two, three, four, five."
+        },
+        {
+          "heading": "Anim hanggang sampu",
+          "text": "Anim, pito, walo, siyam, sampu.",
+          "translation": "Six, seven, eight, nine, ten."
+        },
+        {
+          "heading": "Magbilang tayo",
+          "text": "Magbilang tayo: isa, dalawa, tatlo!",
+          "translation": "Let's count: one, two, three! Touch one finger for each number."
+        }
+      ]
+    },
+    {
+      "id": "pamilya",
+      "title": "Ang Aking Pamilya",
+      "summary": "Mga salita para sa miyembro ng pamilya.",
+      "audience": ["blind", "deaf"],
+      "cards": [
+        {
+          "heading": "Nanay at tatay",
+          "text": "Ito ang nanay ko. Ito ang tatay ko.",
+          "translation": "This is my mother. This is my father."
+        },
+        {
+          "heading": "Kuya at ate",
+          "text": "Si kuya ay mas matanda sa akin. Si ate ay mas matanda rin sa akin.",
+          "translation": "Kuya is my older brother. Ate is my older sister."
+        },
+        {
+          "heading": "Lolo at lola",
+          "text": "Mahal ko si lolo at si lola.",
+          "translation": "I love my grandfather and my grandmother."
+        },
+        {
+          "heading": "Kapatid",
+          "text": "Mayroon akong kapatid.",
+          "translation": "I have a sibling."
+        }
+      ]
+    }
+  ]
+}
